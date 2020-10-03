@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="word_list_recycler_view" type="id" />
+    <item name="main_text_view" type="id" />
+    <item name="sub_text_view" type="id" />
+</resources>
